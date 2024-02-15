@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/iwshel/iwshel/src/Lab2/Lab2.csproj": {}
+  },
+  "projects": {
+    "/home/iwshel/iwshel/src/Lab2/Lab2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/iwshel/iwshel/src/Lab2/Lab2.csproj",
+        "projectName": "Lab2",
+        "projectPath": "/home/iwshel/iwshel/src/Lab2/Lab2.csproj",
+        "packagesPath": "/home/iwshel/.nuget/packages/",
+        "outputPath": "/home/iwshel/iwshel/src/Lab2/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/home/iwshel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "SourceKit.Analyzers.Collections": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Enumerable": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.MemberAccessibility": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Nullable": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Properties": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "versionCentrallyManaged": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.507, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[6.0.0, )",
+            "Crayon": "[2.0.69, )",
+            "Microsoft.Extensions.DependencyInjection": "[7.0.0, )",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "[8.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.7.2, )",
+            "Moq": "[4.20.69, )",
+            "Npgsql": "[8.0.1, )",
+            "NSubstitute": "[5.1.0, )",
+            "SourceKit.Analyzers.Collections": "[1.0.4, )",
+            "SourceKit.Analyzers.Enumerable": "[1.0.4, )",
+            "SourceKit.Analyzers.MemberAccessibility": "[1.0.4, )",
+            "SourceKit.Analyzers.Nullable": "[1.0.4, )",
+            "SourceKit.Analyzers.Properties": "[1.0.4, )",
+            "Spectre.Console": "[0.48.1-preview.0.5, )",
+            "StyleCop.Analyzers": "[1.2.0-beta.507, )",
+            "xunit": "[2.5.0, )",
+            "xunit.runner.visualstudio": "[2.5.0, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/iwshel/.dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/home/iwshel/iwshel/src/Lab5/Application.Models/bin/Debug/net7.0/Application.Models.deps.json
+/home/iwshel/iwshel/src/Lab5/Application.Models/bin/Debug/net7.0/Application.Models.dll
+/home/iwshel/iwshel/src/Lab5/Application.Models/bin/Debug/net7.0/Application.Models.pdb
+/home/iwshel/iwshel/src/Lab5/Application.Models/bin/Debug/net7.0/Application.Models.xml
+/home/iwshel/iwshel/src/Lab5/Application.Models/obj/Debug/net7.0/Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwshel/iwshel/src/Lab5/Application.Models/obj/Debug/net7.0/Application.Models.AssemblyInfoInputs.cache
+/home/iwshel/iwshel/src/Lab5/Application.Models/obj/Debug/net7.0/Application.Models.AssemblyInfo.cs
+/home/iwshel/iwshel/src/Lab5/Application.Models/obj/Debug/net7.0/Application.Models.csproj.CoreCompileInputs.cache
+/home/iwshel/iwshel/src/Lab5/Application.Models/obj/Debug/net7.0/Application.Models.dll
+/home/iwshel/iwshel/src/Lab5/Application.Models/obj/Debug/net7.0/refint/Application.Models.dll
+/home/iwshel/iwshel/src/Lab5/Application.Models/obj/Debug/net7.0/Application.Models.xml
+/home/iwshel/iwshel/src/Lab5/Application.Models/obj/Debug/net7.0/Application.Models.pdb
+/home/iwshel/iwshel/src/Lab5/Application.Models/obj/Debug/net7.0/ref/Application.Models.dll
+/home/iwshel/iwshel/src/Lab5/Application.Models/obj/Debug/net7.0/Application.Models.csproj.AssemblyReference.cache

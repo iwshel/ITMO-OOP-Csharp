@@ -1,0 +1,475 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Castle.Core/5.1.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Diagnostics.EventLog": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Castle.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Castle.Core.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Crayon/2.0.69": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Crayon.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Crayon.dll": {}
+        }
+      },
+      "Moq/4.20.69": {
+        "type": "package",
+        "dependencies": {
+          "Castle.Core": "5.1.1"
+        },
+        "compile": {
+          "lib/net6.0/Moq.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Moq.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "NSubstitute/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Castle.Core": "5.1.1"
+        },
+        "compile": {
+          "lib/net6.0/NSubstitute.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/NSubstitute.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "SourceKit.Analyzers.Collections/1.0.4": {
+        "type": "package"
+      },
+      "SourceKit.Analyzers.Enumerable/1.0.4": {
+        "type": "package"
+      },
+      "SourceKit.Analyzers.MemberAccessibility/1.0.4": {
+        "type": "package"
+      },
+      "SourceKit.Analyzers.Nullable/1.0.4": {
+        "type": "package"
+      },
+      "SourceKit.Analyzers.Properties/1.0.4": {
+        "type": "package"
+      },
+      "StyleCop.Analyzers/1.2.0-beta.507": {
+        "type": "package",
+        "dependencies": {
+          "StyleCop.Analyzers.Unstable": "1.2.0.507"
+        }
+      },
+      "StyleCop.Analyzers.Unstable/1.2.0.507": {
+        "type": "package"
+      },
+      "System.Diagnostics.EventLog/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          },
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Castle.Core/5.1.1": {
+      "sha512": "rpYtIczkzGpf+EkZgDr9CClTdemhsrwA/W5hMoPjLkRFnXzH44zDLoovXeKtmxb1ykXK9aJVODSpiJml8CTw2g==",
+      "type": "package",
+      "path": "castle.core/5.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ASL - Apache Software Foundation License.txt",
+        "CHANGELOG.md",
+        "LICENSE",
+        "castle-logo.png",
+        "castle.core.5.1.1.nupkg.sha512",
+        "castle.core.nuspec",
+        "lib/net462/Castle.Core.dll",
+        "lib/net462/Castle.Core.xml",
+        "lib/net6.0/Castle.Core.dll",
+        "lib/net6.0/Castle.Core.xml",
+        "lib/netstandard2.0/Castle.Core.dll",
+        "lib/netstandard2.0/Castle.Core.xml",
+        "lib/netstandard2.1/Castle.Core.dll",
+        "lib/netstandard2.1/Castle.Core.xml",
+        "readme.txt"
+      ]
+    },
+    "Crayon/2.0.69": {
+      "sha512": "eJHxoMTfhZs1782YUIMafXIDTPcTwAV5I3MNsl2d4Mn61/h3ABPMSzHwzigL/NO7BrCKRoP4gHJuERpLHdSCvg==",
+      "type": "package",
+      "path": "crayon/2.0.69",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "crayon.2.0.69.nupkg.sha512",
+        "crayon.nuspec",
+        "lib/netstandard2.0/Crayon.dll"
+      ]
+    },
+    "Moq/4.20.69": {
+      "sha512": "8P/oAUOL8ZVyXnzBBcgdhTsOD1kQbAWfOcMI7KDQO3HqQtzB/0WYLdnMa4Jefv8nu/MQYiiG0IuoJdvG0v0Nig==",
+      "type": "package",
+      "path": "moq/4.20.69",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net462/Moq.dll",
+        "lib/net462/Moq.xml",
+        "lib/net6.0/Moq.dll",
+        "lib/net6.0/Moq.xml",
+        "lib/netstandard2.0/Moq.dll",
+        "lib/netstandard2.0/Moq.xml",
+        "lib/netstandard2.1/Moq.dll",
+        "lib/netstandard2.1/Moq.xml",
+        "moq.4.20.69.nupkg.sha512",
+        "moq.nuspec",
+        "readme.md"
+      ]
+    },
+    "NSubstitute/5.1.0": {
+      "sha512": "ZCqOP3Kpp2ea7QcLyjMU4wzE+0wmrMN35PQMsdPOHYc2IrvjmusG9hICOiqiOTPKN0gJon6wyCn6ZuGHdNs9hQ==",
+      "type": "package",
+      "path": "nsubstitute/5.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net462/NSubstitute.dll",
+        "lib/net462/NSubstitute.xml",
+        "lib/net6.0/NSubstitute.dll",
+        "lib/net6.0/NSubstitute.xml",
+        "lib/netstandard2.0/NSubstitute.dll",
+        "lib/netstandard2.0/NSubstitute.xml",
+        "nsubstitute.5.1.0.nupkg.sha512",
+        "nsubstitute.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Collections/1.0.4": {
+      "sha512": "jqOX386uBw2KIlzfqUT8gIb0shv1/OHSCfCnbAkaPnwd3pJy5T14avK8ojjqe9rQGFmgwpfAJGf/M8k3xlu/Nw==",
+      "type": "package",
+      "path": "sourcekit.analyzers.collections/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Collections.dll",
+        "analyzers/dotnet/cs/SourceKit.dll",
+        "sourcekit.analyzers.collections.1.0.4.nupkg.sha512",
+        "sourcekit.analyzers.collections.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Enumerable/1.0.4": {
+      "sha512": "oMGo4HDWH4FH8ETcvIZxfCPXEgGg8RdeE6ouP7tAyoe9DOsmKYjOB1/nDfTFu45ksdbjTghYfu+DjH/1+SDxjw==",
+      "type": "package",
+      "path": "sourcekit.analyzers.enumerable/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Enumerable.dll",
+        "analyzers/dotnet/cs/SourceKit.dll",
+        "sourcekit.analyzers.enumerable.1.0.4.nupkg.sha512",
+        "sourcekit.analyzers.enumerable.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.MemberAccessibility/1.0.4": {
+      "sha512": "cVjo/Nlh/3DxWP40S8kAC+TMUPNhNRpT3aUyLJiONpVb4GriaYNRq+bLetXKwWuChnzENo7zjjqAV899nZFW3A==",
+      "type": "package",
+      "path": "sourcekit.analyzers.memberaccessibility/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.MemberAccessibility.dll",
+        "analyzers/dotnet/cs/SourceKit.dll",
+        "sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512",
+        "sourcekit.analyzers.memberaccessibility.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Nullable/1.0.4": {
+      "sha512": "5/CxEd/3IXqq8jWvcHr4heB/e61qfcyecPqjbZaLJjVI5YHTQrS4GBxUNsweYMX9gNt+w/OVziHxAxKCrc4xlQ==",
+      "type": "package",
+      "path": "sourcekit.analyzers.nullable/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Nullable.dll",
+        "analyzers/dotnet/cs/SourceKit.dll",
+        "sourcekit.analyzers.nullable.1.0.4.nupkg.sha512",
+        "sourcekit.analyzers.nullable.nuspec"
+      ]
+    },
+    "SourceKit.Analyzers.Properties/1.0.4": {
+      "sha512": "gyodJN2R2stTjz1Rtxg9YSAJtFfZqcVBhIIe3/sGB2sZpK1Xam78y9kUvLViwM2xMMHUXqAOP7Bzqe+LN/RRPg==",
+      "type": "package",
+      "path": "sourcekit.analyzers.properties/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "analyzers/dotnet/cs/SourceKit.Analyzers.Properties.dll",
+        "analyzers/dotnet/cs/SourceKit.dll",
+        "sourcekit.analyzers.properties.1.0.4.nupkg.sha512",
+        "sourcekit.analyzers.properties.nuspec"
+      ]
+    },
+    "StyleCop.Analyzers/1.2.0-beta.507": {
+      "sha512": "/FtugDT66cKJJ+GGH7rNpG6UDrT4iIWz45M6lrXXHobDUFDHw+q5VgkbiR+6ffTO564ge7w6fQh/eoQhVdJO8Q==",
+      "type": "package",
+      "path": "stylecop.analyzers/1.2.0-beta.507",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt",
+        "stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+        "stylecop.analyzers.nuspec"
+      ]
+    },
+    "StyleCop.Analyzers.Unstable/1.2.0.507": {
+      "sha512": "gTY3IQdRqDJ4hbhSA3e/R48oE8b/OiKfvwkt1QdNVfrJK2gMHBV8ldaHJ885jxWZfllK66soa/sdcjh9bX49Tw==",
+      "type": "package",
+      "path": "stylecop.analyzers.unstable/1.2.0.507",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.dll",
+        "analyzers/dotnet/cs/de-DE/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/en-GB/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/es-MX/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/fr-FR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pl-PL/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll",
+        "rulesets/StyleCopAnalyzersDefault.ruleset",
+        "stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512",
+        "stylecop.analyzers.unstable.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "System.Diagnostics.EventLog/6.0.0": {
+      "sha512": "lcyUiXTsETK2ALsZrX+nWuHSIQeazhqPphLfaRxzdGaG93+0kELqpgEHtwWOlQe7+jSFnKwaCAgL4kjeZCQJnw==",
+      "type": "package",
+      "path": "system.diagnostics.eventlog/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Diagnostics.EventLog.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Diagnostics.EventLog.dll",
+        "lib/net461/System.Diagnostics.EventLog.xml",
+        "lib/net6.0/System.Diagnostics.EventLog.dll",
+        "lib/net6.0/System.Diagnostics.EventLog.xml",
+        "lib/netcoreapp3.1/System.Diagnostics.EventLog.dll",
+        "lib/netcoreapp3.1/System.Diagnostics.EventLog.xml",
+        "lib/netstandard2.0/System.Diagnostics.EventLog.dll",
+        "lib/netstandard2.0/System.Diagnostics.EventLog.xml",
+        "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll",
+        "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll",
+        "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.xml",
+        "runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.Messages.dll",
+        "runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.dll",
+        "runtimes/win/lib/netcoreapp3.1/System.Diagnostics.EventLog.xml",
+        "system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+        "system.diagnostics.eventlog.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Crayon >= 2.0.69",
+      "Moq >= 4.20.69",
+      "NSubstitute >= 5.1.0",
+      "SourceKit.Analyzers.Collections >= 1.0.4",
+      "SourceKit.Analyzers.Enumerable >= 1.0.4",
+      "SourceKit.Analyzers.MemberAccessibility >= 1.0.4",
+      "SourceKit.Analyzers.Nullable >= 1.0.4",
+      "SourceKit.Analyzers.Properties >= 1.0.4",
+      "StyleCop.Analyzers >= 1.2.0-beta.507"
+    ]
+  },
+  "packageFolders": {
+    "/home/iwshel/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/iwshel/iwshel/src/Lab3/Lab3.csproj",
+      "projectName": "Lab3",
+      "projectPath": "/home/iwshel/iwshel/src/Lab3/Lab3.csproj",
+      "packagesPath": "/home/iwshel/.nuget/packages/",
+      "outputPath": "/home/iwshel/iwshel/src/Lab3/obj/",
+      "projectStyle": "PackageReference",
+      "centralPackageVersionsManagementEnabled": true,
+      "configFilePaths": [
+        "/home/iwshel/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true,
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Crayon": {
+            "target": "Package",
+            "version": "[2.0.69, )",
+            "versionCentrallyManaged": true
+          },
+          "Moq": {
+            "target": "Package",
+            "version": "[4.20.69, )",
+            "versionCentrallyManaged": true
+          },
+          "NSubstitute": {
+            "target": "Package",
+            "version": "[5.1.0, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.Collections": {
+            "target": "Package",
+            "version": "[1.0.4, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.Enumerable": {
+            "target": "Package",
+            "version": "[1.0.4, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.MemberAccessibility": {
+            "target": "Package",
+            "version": "[1.0.4, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.Nullable": {
+            "target": "Package",
+            "version": "[1.0.4, )",
+            "versionCentrallyManaged": true
+          },
+          "SourceKit.Analyzers.Properties": {
+            "target": "Package",
+            "version": "[1.0.4, )",
+            "versionCentrallyManaged": true
+          },
+          "StyleCop.Analyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.2.0-beta.507, )",
+            "versionCentrallyManaged": true
+          }
+        },
+        "centralPackageVersions": {
+          "coverlet.collector": "[6.0.0, )",
+          "Crayon": "[2.0.69, )",
+          "Microsoft.Extensions.DependencyInjection": "[7.0.0, )",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "[8.0.0, )",
+          "Microsoft.NET.Test.Sdk": "[17.7.2, )",
+          "Moq": "[4.20.69, )",
+          "Npgsql": "[8.0.1, )",
+          "NSubstitute": "[5.1.0, )",
+          "SourceKit.Analyzers.Collections": "[1.0.4, )",
+          "SourceKit.Analyzers.Enumerable": "[1.0.4, )",
+          "SourceKit.Analyzers.MemberAccessibility": "[1.0.4, )",
+          "SourceKit.Analyzers.Nullable": "[1.0.4, )",
+          "SourceKit.Analyzers.Properties": "[1.0.4, )",
+          "Spectre.Console": "[0.48.1-preview.0.5, )",
+          "StyleCop.Analyzers": "[1.2.0-beta.507, )",
+          "xunit": "[2.5.0, )",
+          "xunit.runner.visualstudio": "[2.5.0, )"
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/home/iwshel/.dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

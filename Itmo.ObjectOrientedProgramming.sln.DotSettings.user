@@ -1,0 +1,49 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">INFO</s:String>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/home/iwshel/.dotnet/packs/Microsoft.NETCore.App.Ref/7.0.11/ref/net7.0/System.Globalization.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1e597e9e_002D5023_002D47e9_002D9f82_002D3ca75a59d4cf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from ShipTests.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;4CA1BCBB-A6F3-4ED0-9E5F-849FF093EDE1/f:ShipTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;25D0E1F0-760B-4E76-B0D9-3EF274B35AF6/f:ComputerAssemblyTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1f3b6ae3_002D4675_002D42b7_002D8063_002Db2af6af77cea/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestGoto #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;17689E4A-FE4F-4893-8E28-3BA911DEC8D8/f:ParseTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=21d58feb_002Dbc67_002D4e8a_002D9af5_002D3df3d6f2ed54/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;17689E4A-FE4F-4893-8E28-3BA911DEC8D8/f:ParseTests.cs&lt;/ProjectFile&gt;
+    &lt;Project Location="/home/iwshel/iwshel/tests/Lab5.Tests" Presentation="&amp;lt;tests&amp;gt;\&amp;lt;Lab5.Tests&amp;gt;" /&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3a432a05_002Dda28_002D4384_002D8e8c_002D935484ef5967/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from ShipTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;4CA1BCBB-A6F3-4ED0-9E5F-849FF093EDE1/f:ShipTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3cb01b43_002Dadd9_002D4747_002D9a7b_002D2cc5c4672ce6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from ShipTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/home/iwshel/iwshel" Presentation="&amp;lt;tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4195a06d_002Dec66_002D4358_002Da854_002Db062104b2d53/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestGoto" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;17689E4A-FE4F-4893-8E28-3BA911DEC8D8/f:ParseTests.cs&lt;/ProjectFile&gt;
+    &lt;Project Location="/home/iwshel/iwshel/tests/Lab5.Tests" Presentation="&amp;lt;tests&amp;gt;\&amp;lt;Lab5.Tests&amp;gt;" /&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5cdc0855_002Dcd4d_002D4063_002Db484_002D4fb331b3f996/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from ShipTests.cs #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;4CA1BCBB-A6F3-4ED0-9E5F-849FF093EDE1/f:ShipTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;25D0E1F0-760B-4E76-B0D9-3EF274B35AF6/f:ComputerAssemblyTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;7E5E46DB-EF55-47E6-822A-6AE20BF2FCD9/f:CorporateMessagesTests.cs&lt;/ProjectFile&gt;
+    &lt;Project Location="/home/iwshel/iwshel/tests/Lab3.Tests" Presentation="&amp;lt;tests&amp;gt;\&amp;lt;Lab3.Tests&amp;gt;" /&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::17689E4A-FE4F-4893-8E28-3BA911DEC8D8::net7.0::Itmo.ObjectOrientedProgramming.Lab4.Tests.ParseTests.TestConnectToLocal&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::FA627A62-AD7A-4A72-B15C-EC8AEFD206DB::net7.0::Itmo.ObjectOrientedProgramming.Lab5.Tests.BankTests.CheckWithdrawSuccess&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::FA627A62-AD7A-4A72-B15C-EC8AEFD206DB::net7.0::Itmo.ObjectOrientedProgramming.Lab5.Tests.BankTests.CheckWithdrawFail&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::FA627A62-AD7A-4A72-B15C-EC8AEFD206DB::net7.0::Itmo.ObjectOrientedProgramming.Lab5.Tests.BankTests.CheckReplenishmentSuccess&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;17689E4A-FE4F-4893-8E28-3BA911DEC8D8/f:ParseTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>

@@ -1,0 +1,13 @@
+/home/iwshel/iwshel/src/Lab4/bin/Debug/net7.0/Lab4.deps.json
+/home/iwshel/iwshel/src/Lab4/bin/Debug/net7.0/Lab4.dll
+/home/iwshel/iwshel/src/Lab4/bin/Debug/net7.0/Lab4.pdb
+/home/iwshel/iwshel/src/Lab4/bin/Debug/net7.0/Lab4.xml
+/home/iwshel/iwshel/src/Lab4/obj/Debug/net7.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwshel/iwshel/src/Lab4/obj/Debug/net7.0/Lab4.AssemblyInfoInputs.cache
+/home/iwshel/iwshel/src/Lab4/obj/Debug/net7.0/Lab4.AssemblyInfo.cs
+/home/iwshel/iwshel/src/Lab4/obj/Debug/net7.0/Lab4.csproj.CoreCompileInputs.cache
+/home/iwshel/iwshel/src/Lab4/obj/Debug/net7.0/Lab4.dll
+/home/iwshel/iwshel/src/Lab4/obj/Debug/net7.0/refint/Lab4.dll
+/home/iwshel/iwshel/src/Lab4/obj/Debug/net7.0/Lab4.xml
+/home/iwshel/iwshel/src/Lab4/obj/Debug/net7.0/Lab4.pdb
+/home/iwshel/iwshel/src/Lab4/obj/Debug/net7.0/ref/Lab4.dll

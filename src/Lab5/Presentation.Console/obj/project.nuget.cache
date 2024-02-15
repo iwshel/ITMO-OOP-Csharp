@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "a0LnZ2Ecqz2kHt+nPD25ap2P3sKos8W06G5DJ5H4Z3E4RJq9m2jrmlSfF66EkGf1snwA2AstTRj2B3BjFy9yWQ==",
+  "success": true,
+  "projectFilePath": "/home/iwshel/iwshel/src/Lab5/Presentation.Console/Presentation.Console.csproj",
+  "expectedPackageFiles": [
+    "/home/iwshel/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/sourcekit.analyzers.collections/1.0.4/sourcekit.analyzers.collections.1.0.4.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/sourcekit.analyzers.enumerable/1.0.4/sourcekit.analyzers.enumerable.1.0.4.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/sourcekit.analyzers.memberaccessibility/1.0.4/sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/sourcekit.analyzers.nullable/1.0.4/sourcekit.analyzers.nullable.1.0.4.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/sourcekit.analyzers.properties/1.0.4/sourcekit.analyzers.properties.1.0.4.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/spectre.console/0.48.1-preview.0.5/spectre.console.0.48.1-preview.0.5.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/stylecop.analyzers/1.2.0-beta.507/stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/stylecop.analyzers.unstable/1.2.0.507/stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKsrvNaZodq1qFPvqBO/g0QSwcICpMhU814tMwTyNCnBACI4YrDBZvIbLA7P5b/4/phqWcuUubJx+ZK5YSuX4A==",
+  "success": true,
+  "projectFilePath": "/home/iwshel/iwshel/src/Lab3/Lab3.csproj",
+  "expectedPackageFiles": [
+    "/home/iwshel/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/crayon/2.0.69/crayon.2.0.69.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/moq/4.20.69/moq.4.20.69.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/nsubstitute/5.1.0/nsubstitute.5.1.0.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/sourcekit.analyzers.collections/1.0.4/sourcekit.analyzers.collections.1.0.4.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/sourcekit.analyzers.enumerable/1.0.4/sourcekit.analyzers.enumerable.1.0.4.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/sourcekit.analyzers.memberaccessibility/1.0.4/sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/sourcekit.analyzers.nullable/1.0.4/sourcekit.analyzers.nullable.1.0.4.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/sourcekit.analyzers.properties/1.0.4/sourcekit.analyzers.properties.1.0.4.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/stylecop.analyzers/1.2.0-beta.507/stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/stylecop.analyzers.unstable/1.2.0.507/stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512",
+    "/home/iwshel/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

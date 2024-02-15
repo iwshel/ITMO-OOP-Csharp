@@ -1,0 +1,14 @@
+/home/iwshel/iwshel/src/Lab3/obj/Debug/net7.0/Lab3.csproj.AssemblyReference.cache
+/home/iwshel/iwshel/src/Lab3/obj/Debug/net7.0/Lab3.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwshel/iwshel/src/Lab3/obj/Debug/net7.0/Lab3.AssemblyInfoInputs.cache
+/home/iwshel/iwshel/src/Lab3/obj/Debug/net7.0/Lab3.AssemblyInfo.cs
+/home/iwshel/iwshel/src/Lab3/obj/Debug/net7.0/Lab3.csproj.CoreCompileInputs.cache
+/home/iwshel/iwshel/src/Lab3/bin/Debug/net7.0/Lab3.deps.json
+/home/iwshel/iwshel/src/Lab3/bin/Debug/net7.0/Lab3.dll
+/home/iwshel/iwshel/src/Lab3/bin/Debug/net7.0/Lab3.pdb
+/home/iwshel/iwshel/src/Lab3/bin/Debug/net7.0/Lab3.xml
+/home/iwshel/iwshel/src/Lab3/obj/Debug/net7.0/Lab3.dll
+/home/iwshel/iwshel/src/Lab3/obj/Debug/net7.0/refint/Lab3.dll
+/home/iwshel/iwshel/src/Lab3/obj/Debug/net7.0/Lab3.xml
+/home/iwshel/iwshel/src/Lab3/obj/Debug/net7.0/Lab3.pdb
+/home/iwshel/iwshel/src/Lab3/obj/Debug/net7.0/ref/Lab3.dll
